@@ -231,7 +231,7 @@
                 </div>
                 
               
-                <div class="col-md-4" style="">
+                <div class="col-md-4" style="top: 100px">
                         <div class="card" style="width: 10rem; left: -55px">
                             <img class="card-img-top" src="img/ProductoNuevo3.png" alt="Producto Nuevo 3" style="height: 8rem;">
                         </div>
