@@ -1,0 +1,30 @@
+.nav {
+    text-align: center;
+}
+.footer{
+    background: url('../img/txt.jpg');
+    position: fixed;
+    bottom: 0;
+    width:100% ;
+    color: white;
+   
+   
+}
+.ac{
+  color:#ebebeb ;
+  position: relative;
+  right: 500px;
+}
+
+.redes{
+  color:#ebebeb ;
+  position: relative;
+  right: 450px;
+}
+.Register {
+    text-align: center;
+    
+}
+.uno {
+    text-align: center;
+}
