@@ -15,13 +15,10 @@
     </head>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
     <body>
-        <div > 
-            
-            
-
+        <div >
             <div class="Register" ><img src="img/cl.png" width="30" height="30" class="d-inline-block align-top" alt=""> Para mejor experiencia de Usuario :<a href=""> Ingrese Aquí</a> o <a href=""> Regístrese Aquí</a></div>
         <nav class="navbar navbar-light bg-light" >
-            <a class="navbar-brand" href="#" style="position: relative;right: -235px">
+            <a class="navbar-brand" href="index.jsp" style="position: relative;right: -235px">
                 <img src="img/84e2923c079808d1bf168dd86e06aff5.jpg" width="30" height="30" class="d-inline-block align-top" alt="">
                 Dream Of Symphony
             </a>
@@ -164,11 +161,11 @@
                 <article class="row">
                     <div class="col-md-4">
                         <div class="card" style="width: 16rem; left: 60px">
-                            <img class="card-img-top" src="img/Destacado1.png" alt="Imagen Producto Destacado 1">
+                            <a href="DescripcionProducto.jsp"><img class="card-img-top" src="img/Destacado1.png" alt="Imagen Producto Destacado 1"></a>
                             <div class="card-body">
                                 <h5 class="card-title">Guitarra Eléctrica Queen SFV09 tipo Flying V</h5>
                                 <p class="card-text">Diapason Palo rosa, 22 trastes, 2 cápsulas genéricas dobles, Switch 3 posiciones, Clavijeros standard</p>
-                                <center><a href="#" class="btn btn-primary">Ver Producto</a></center>
+                                <center><a href="DescripcionProducto.jsp" class="btn btn-primary">Ver Producto</a></center>
                             </div>
                         </div>
                     </div>
