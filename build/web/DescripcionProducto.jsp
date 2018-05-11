@@ -19,7 +19,7 @@
         </style>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
     
-    <body>
+    <body style="background-color: ivory">
         <div>
             <center><div class="Register" ><img src="img/cl.png" width="30" height="30" class="d-inline-block align-top" alt=""> Para mejor experiencia de Usuario :<a href=""> Ingrese Aquí</a> o <a href=""> Regístrese Aquí</a></div></center>
         <nav class="navbar navbar-light bg-light" >
@@ -149,170 +149,149 @@
                         <h2 class="h2"><strong>Guitarra Eléctrica Queen SFV09 tipo Flying V</strong></h2>
                         <br>
                         <br>
-                        <div class="tab-content">
-                            <section id="tab2" class="tab-pane page-product-box active">
-                                <h5>Descripción del producto</h5>
-                                <p>-Diapason Palo rosa</p>
-                                <p>-22 trastes</p>
-                                <p>-2 cápsulas genéricas dobles</p>
-                                <p>-Switch 3 posiciones</p>
-                                <p>-Clavijeros standard</p>
-                                <p>-Incluye: Funda, correa, cable y 2 uñetas</p>
-                            </section>
-                        </div>
+                        
                     </div>
-                      <ul class="nav nav-tabs" id="myTab" role="tablist" >
-          <li class="nav-item">
-            <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">Descripcion Producto</a>
-       </li>
-           <li class="nav-item">
-           <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false">Ficha Tecnica</a>
-      </li>
-           <li class="nav-item">
-          <a class="nav-link" id="contact-tab" data-toggle="tab" href="#contact" role="tab" aria-controls="contact" aria-selected="false">Comentarios</a>
-      </li>
-      </ul>
-      <div class="tab-content" id="myTabContent" >
-      <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
-      <h4>Descripcion Producto</h4>
-       Guitarra Eléctrica Queen SFV09 tipo Flying V <br>
-
-       Diapason Palo rosa <br>
-
-       22 trastes<br>
-
-       2 cápsulas genéricas dobles<br>
-
-       Switch 3 posiciones<br>
-
-       Clavijeros standard<br> 
-
-       Incluye: Funda, correa, cable y 2 uñetas (genéricos) </div>
-      <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
-      <h4>Ficha Tecnica</h4>
-      <table>
-             <tr>
-                <td> Marca</td>
-                <td> Queen </td>
-            </tr> 
-            <tr>
-                <td> Serie </td>
-                <td> SFV </td>
-            </tr>
-            <tr>
-                <td> Cuerpo </td>
-                <td> Tilo </td>
-            </tr>
-            <tr>
-                <td> Mango</td>
-                <td> Arce </td>
-            </tr>
-            
-             <tr>
-                <td> Diapasón</td>
-                <td> Palo Rosa </td>
-            </tr>
-             <tr>
-                <td> Clavijeros</td>
-                <td> Cromado estandar </td>
-            </tr>
-             
-             <tr>
-                <td> Escala</td>
-                <td>24.75 </td>
-            </tr>
-             <tr>
-                <td> Trastes</td>
-                <td> 22 </td>
-            </tr>
-             <tr>
-                <td> Volumen</td>
-                <td> 2 </td>
-            </tr>
-             <tr>
-                <td> Tono</td>
-                <td> 1 </td>
-            </tr>
-        </table></div>
-        <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
-        <h4>Comentarios</h4>
-        Escribe un comentario para este producto.
-        Sólo para usuarios registrados. Conéctese o regístrese
-        Nos encantaria saber que piensas sobre este productos
-      </div>
-     </div>
-                  
+                    
+                    <div class="tab-content" id="myTabContent" style="margin-top: 20px; margin-left: 55px">
+                        <ul class="nav nav-tabs" id="myTab" role="tablist" >
+                            <li class="nav-item">
+                                <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">Descripcion Producto</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false">Ficha Tecnica</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" id="contact-tab" data-toggle="tab" href="#contact" role="tab" aria-controls="contact" aria-selected="false">Comentarios</a>
+                            </li>
+                        </ul>
+                        
+                        <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab" style="margin-left: 40px">
+                            <br>
+                            Guitarra Eléctrica Queen SFV09 tipo Flying V <br><br>
+                            Diapason Palo rosa <br><br>
+                            22 trastes<br><br>
+                            2 cápsulas genéricas dobles<br><br>
+                            Switch 3 posiciones<br><br>
+                            Clavijeros standard<br><br> 
+                            Incluye: Funda, correa, cable y 2 uñetas (genéricos) 
+                        </div>
+                        
+                        <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
+                            <h4>Ficha Tecnica</h4>
+                            <table>
+                                    <tr>
+                                        <td> Marca</td>
+                                        <td> Queen </td>
+                                    </tr> 
+                                    <tr>
+                                        <td> Serie </td>
+                                        <td> SFV </td>
+                                    </tr>
+                                    <tr>
+                                        <td> Cuerpo </td>
+                                        <td> Tilo </td>
+                                    </tr>
+                                    <tr>
+                                        <td> Mango</td>
+                                        <td> Arce </td>
+                                    </tr>
+                                    <tr>
+                                        <td> Diapasón</td>
+                                        <td> Palo Rosa </td>
+                                    </tr>
+                                    <tr>
+                                        <td> Clavijeros</td>
+                                        <td> Cromado estandar </td>
+                                    </tr>
+                                    <tr>
+                                        <td> Escala</td>
+                                        <td>24.75 </td>
+                                    </tr>
+                                    <tr>
+                                        <td> Trastes</td>
+                                        <td> 22 </td>
+                                    </tr>
+                                    <tr>
+                                        <td> Volumen</td>
+                                        <td> 2 </td>
+                                    </tr>
+                                    <tr>
+                                        <td> Tono</td>
+                                        <td> 1 </td>
+                                    </tr>
+                                </table>
+                            </div>
+                                <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
+                                    <h4>Comentarios</h4>
+                                    Escribe un comentario para este producto.
+                                    Sólo para usuarios registrados. Conéctese o regístrese
+                                    Nos encantaria saber que piensas sobre este productos
+                                </div>
+                        </div>
             </article>
-         </section>
-             <div class="footer"style="position:relative ;top: 50px; left: -1px;right: 200px" >
-        <footer class="page-footer font-small stylish-color-dark pt-4 mt-4" >
-
-    
-           <div class="container text-center text-md-left">
-        <div class="row">
-
-            <!--First column-->
-            <div class="col-md-4">
-                <h5 class="text-uppercase mb-4 mt-3 font-weight-bold">Informacion de la Empresa</h5>
-                <p>Dream Of Symphony es una empresa enfocada en ventas de instrumentos musicales.
-                nacida en el año 2018 </p>
-            </div>
+        </section>
             
+        <div class="footer"style="position:relative ;top: 50px; left: -1px;right: 200px" >
+            <footer class="page-footer font-small stylish-color-dark pt-4 mt-4" >
+                <div class="container text-center text-md-left">
+                    <div class="row">
+                        <!--First column-->
+                        <div class="col-md-4">
+                            <h5 class="text-uppercase mb-4 mt-3 font-weight-bold">Informacion de la Empresa</h5>
+                            <p>Dream Of Symphony es una empresa enfocada en ventas de instrumentos musicales.
+                            nacida en el año 2018 </p>
+                        </div>
+                        <hr class="clearfix w-100 d-md-none">
+                        <!--Second column-->
+                        <div class="col-md-2 mx-auto">
+                            <h5 class="text-uppercase mb-4 mt-3 font-weight-bold">Atencion Cliente</h5>
+                            <ul class="list-unstyled">
 
-            <hr class="clearfix w-100 d-md-none">
+                                <li>
+                                    <p>Numero contacto:2246853</p>
+                                </li>
+                                <li>
+                                    <a href="#!">formulario consulta</a>
+                                </li>
 
-            <!--Second column-->
-            <div class="col-md-2 mx-auto">
-                <h5 class="text-uppercase mb-4 mt-3 font-weight-bold">Atencion Cliente</h5>
-                <ul class="list-unstyled">
-                    
-                    <li>
-                        <p>Numero contacto:2246853</p>
-                    </li>
-                    <li>
-                        <a href="#!">formulario consulta</a>
-                    </li>
-                    
-                </ul>
-            </div>
-            <!--/.Second column-->
-
-            <hr class="clearfix w-100 d-md-none">
-
-            <!--Third column-->
-            <div class="col-md-2 mx-auto">
-                <h5 class="text-uppercase mb-4 mt-3 font-weight-bold">Redes sociales</h5>
-                <ul class="list-unstyled">
-                    <li>
-                    <!-- Image and text -->
-       <nav class="">
-        <a class="navbar-brand" href="#">
-            <img src="img/facebook2.png" width="30" height="30" alt=""> Facebook
-       </a>
-       </nav>
-                    </li>
-                    <li>
-            <nav class="">
-        <a class="navbar-brand" href="#">
-            <img src="img/Instagram.png" width="30" height="30" alt=""> Instagram
-       </a>
-       </nav>
-         </li>
-         <li>
-         <nav class="">
-        <a class="navbar-brand" href="#">
-            <img src="img/Twitter.png" width="30" height="30" alt=""> Twitter
-        </a>
-       </nav>
-        </li>
-                </ul>
-            </div>
-            <hr class="clearfix w-100 d-md-none">
+                            </ul>
+                        </div>
+                        <!--/.Second column-->
+                        <hr class="clearfix w-100 d-md-none">
+                        <!--Third column-->
+                        <div class="col-md-2 mx-auto">
+                            <h5 class="text-uppercase mb-4 mt-3 font-weight-bold">Redes sociales</h5>
+                            <ul class="list-unstyled">
+                                <li>
+                                    <!-- Image and text -->
+                                    <nav class="">
+                                        <a class="navbar-brand" href="#">
+                                            <img src="img/facebook2.png" width="30" height="30" alt=""> Facebook
+                                        </a>
+                                    </nav>
+                                </li>
+                                <li>
+                                    <nav class="">
+                                        <a class="navbar-brand" href="#">
+                                            <img src="img/Instagram.png" width="30" height="30" alt=""> Instagram
+                                        </a>
+                                    </nav>
+                                </li>
+                                <li>
+                                    <nav class="">
+                                        <a class="navbar-brand" href="#">
+                                            <img src="img/Twitter.png" width="30" height="30" alt=""> Twitter
+                                        </a>
+                                    </nav>
+                               </li>
+                            </ul>
+                        </div>
+                        <hr class="clearfix w-100 d-md-none">
+                    </div>
+                </div>
+                <hr>
+            </footer>
         </div>
-        </div>
-        <hr>
-        </footer>
-         </div>
         </div>
        
             
