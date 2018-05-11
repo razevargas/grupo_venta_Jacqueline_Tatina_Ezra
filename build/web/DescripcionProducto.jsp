@@ -10,6 +10,7 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>JSP Page</title>
+          <link rel="stylesheet" href="css/Centrar.css" >
     </head>
      <style type="text/css">
             td{
@@ -160,13 +161,7 @@
                             </section>
                         </div>
                     </div>
-                </div>
-                
-            </article>
-            
-            
-           
-       <ul class="nav nav-tabs" id="myTab" role="tablist" >
+                      <ul class="nav nav-tabs" id="myTab" role="tablist" >
           <li class="nav-item">
             <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">Descripcion Producto</a>
        </li>
@@ -246,10 +241,79 @@
         Nos encantaria saber que piensas sobre este productos
       </div>
      </div>
-               
+                  
+            </article>
+         </section>
+             <div class="footer"style="position:relative ;top: 50px; left: -1px;right: 200px" >
+        <footer class="page-footer font-small stylish-color-dark pt-4 mt-4" >
+
+    
+           <div class="container text-center text-md-left">
+        <div class="row">
+
+            <!--First column-->
+            <div class="col-md-4">
+                <h5 class="text-uppercase mb-4 mt-3 font-weight-bold">Informacion de la Empresa</h5>
+                <p>Dream Of Symphony es una empresa enfocada en ventas de instrumentos musicales.
+                nacida en el año 2018 </p>
+            </div>
             
-        </section>
-          
+
+            <hr class="clearfix w-100 d-md-none">
+
+            <!--Second column-->
+            <div class="col-md-2 mx-auto">
+                <h5 class="text-uppercase mb-4 mt-3 font-weight-bold">Atencion Cliente</h5>
+                <ul class="list-unstyled">
+                    
+                    <li>
+                        <p>Numero contacto:2246853</p>
+                    </li>
+                    <li>
+                        <a href="#!">formulario consulta</a>
+                    </li>
+                    
+                </ul>
+            </div>
+            <!--/.Second column-->
+
+            <hr class="clearfix w-100 d-md-none">
+
+            <!--Third column-->
+            <div class="col-md-2 mx-auto">
+                <h5 class="text-uppercase mb-4 mt-3 font-weight-bold">Redes sociales</h5>
+                <ul class="list-unstyled">
+                    <li>
+                    <!-- Image and text -->
+       <nav class="">
+        <a class="navbar-brand" href="#">
+            <img src="img/facebook2.png" width="30" height="30" alt=""> Facebook
+       </a>
+       </nav>
+                    </li>
+                    <li>
+            <nav class="">
+        <a class="navbar-brand" href="#">
+            <img src="img/Instagram.png" width="30" height="30" alt=""> Instagram
+       </a>
+       </nav>
+         </li>
+         <li>
+         <nav class="">
+        <a class="navbar-brand" href="#">
+            <img src="img/Twitter.png" width="30" height="30" alt=""> Twitter
+        </a>
+       </nav>
+        </li>
+                </ul>
+            </div>
+            <hr class="clearfix w-100 d-md-none">
+        </div>
+        </div>
+        <hr>
+        </footer>
+         </div>
+        </div>
        
             
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
