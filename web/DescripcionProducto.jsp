@@ -136,7 +136,7 @@
             
         <section>
             <article class="container">
-                <div class="primary_block row">
+                <divm class="primary_block row">
                     <div class="pb-left-column col-xs-12 col-sm-12 col-md-5">
                         <div class="col-md-4" style="position: static">
                             <div class="card" style="width: 25rem; left: 20px">
@@ -161,90 +161,96 @@
                         </div>
                     </div>
                 </div>
+                
             </article>
-        </section>
             
-            <ul class="nav nav-tabs" id="myTab" role="tablist" >
-            <li class="nav-item">
-                <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">Descripcion Producto</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false">Ficha Tecnica</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" id="contact-tab" data-toggle="tab" href="#contact" role="tab" aria-controls="contact" aria-selected="false">Comentarios</a>
-            </li>
-        </ul>
-        <div class="tab-content" id="myTabContent" >
-            <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
-                <h4>Descripcion Producto</h4>
-                Guitarra Eléctrica Queen SFV09 tipo Flying V <br>
+            
+           
+       <ul class="nav nav-tabs" id="myTab" role="tablist" >
+          <li class="nav-item">
+            <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">Descripcion Producto</a>
+       </li>
+           <li class="nav-item">
+           <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false">Ficha Tecnica</a>
+      </li>
+           <li class="nav-item">
+          <a class="nav-link" id="contact-tab" data-toggle="tab" href="#contact" role="tab" aria-controls="contact" aria-selected="false">Comentarios</a>
+      </li>
+      </ul>
+      <div class="tab-content" id="myTabContent" >
+      <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
+      <h4>Descripcion Producto</h4>
+       Guitarra Eléctrica Queen SFV09 tipo Flying V <br>
 
-                Diapason Palo rosa <br>
+       Diapason Palo rosa <br>
 
-                22 trastes<br>
+       22 trastes<br>
 
-                2 cápsulas genéricas dobles<br>
+       2 cápsulas genéricas dobles<br>
 
-                Switch 3 posiciones<br>
+       Switch 3 posiciones<br>
 
-                Clavijeros standard<br> 
+       Clavijeros standard<br> 
 
-                Incluye: Funda, correa, cable y 2 uñetas
-            </div>
-            <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
-                <h4>Ficha Tecnica</h4>
-                <table>
-                    <tr>
-                        <td> Marca</td>
-                        <td> Queen </td>
-                    </tr> 
-                    <tr>
-                        <td> Serie </td>
-                        <td> SFV </td>
-                    </tr>
-                    <tr>
-                        <td> Cuerpo </td>
-                        <td> Tilo </td>
-                    </tr>
-                    <tr>
-                        <td> Mango</td>
-                        <td> Arce </td>
-                    </tr>
-                    <tr>
-                        <td> Diapasón</td>
-                        <td> Palo Rosa </td>
-                    </tr>
-                    <tr>
-                        <td> Clavijeros</td>
-                        <td> Cromado estandar </td>
-                    </tr>
-                    <tr>
-                        <td> Escala</td>
-                        <td>24.75 </td>
-                    </tr>
-                    <tr>
-                        <td> Trastes</td>
-                        <td> 22 </td>
-                    </tr>
-                    <tr>
-                        <td> Volumen</td>
-                        <td> 2 </td>
-                    </tr>
-                    <tr>
-                        <td> Tono</td>
-                        <td> 1 </td>
-                    </tr>
-                </table>
-            </div>
-            <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
-                <h4>Comentarios</h4>
-                Escribe un comentario para este producto.
-                Sólo para usuarios registrados. Conéctese o regístrese
-                Nos encantaria saber que piensas sobre este productos
-            </div>
-        </div>
-        </div>
+       Incluye: Funda, correa, cable y 2 uñetas (genéricos) </div>
+      <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
+      <h4>Ficha Tecnica</h4>
+      <table>
+             <tr>
+                <td> Marca</td>
+                <td> Queen </td>
+            </tr> 
+            <tr>
+                <td> Serie </td>
+                <td> SFV </td>
+            </tr>
+            <tr>
+                <td> Cuerpo </td>
+                <td> Tilo </td>
+            </tr>
+            <tr>
+                <td> Mango</td>
+                <td> Arce </td>
+            </tr>
+            
+             <tr>
+                <td> Diapasón</td>
+                <td> Palo Rosa </td>
+            </tr>
+             <tr>
+                <td> Clavijeros</td>
+                <td> Cromado estandar </td>
+            </tr>
+             
+             <tr>
+                <td> Escala</td>
+                <td>24.75 </td>
+            </tr>
+             <tr>
+                <td> Trastes</td>
+                <td> 22 </td>
+            </tr>
+             <tr>
+                <td> Volumen</td>
+                <td> 2 </td>
+            </tr>
+             <tr>
+                <td> Tono</td>
+                <td> 1 </td>
+            </tr>
+        </table></div>
+        <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
+        <h4>Comentarios</h4>
+        Escribe un comentario para este producto.
+        Sólo para usuarios registrados. Conéctese o regístrese
+        Nos encantaria saber que piensas sobre este productos
+      </div>
+     </div>
+               
+            
+        </section>
+          
+       
             
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script>
