@@ -176,8 +176,8 @@
                             Incluye: Funda, correa, cable y 2 uñetas (genéricos) 
                         </div>
                         
-                        <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
-                            <h4>Ficha Tecnica</h4>
+                        <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab" style="margin-left: 40px">
+                            <h4>Especificación Detallada</h4>
                             <table>
                                     <tr>
                                         <td> Marca</td>
@@ -221,11 +221,11 @@
                                     </tr>
                                 </table>
                             </div>
-                                <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
-                                    <h4>Comentarios</h4>
+                                <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab" style="margin-left: 40px">
+                                    <br> 
                                     Escribe un comentario para este producto.
                                     Sólo para usuarios registrados. Conéctese o regístrese
-                                    Nos encantaria saber que piensas sobre este productos
+                                    Nos encantaria saber que piensas sobre este productos 
                                 </div>
                         </div>
             </article>

@@ -14,6 +14,7 @@
         <title >DreamOfSymphony</title>
     </head>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <body>
         <div >
             <div class="Register" ><img src="img/cl.png" width="30" height="30" class="d-inline-block align-top" alt=""> Para mejor experiencia de Usuario :<a href=""> Ingrese Aquí</a> o <a href=""> Regístrese Aquí</a></div>
@@ -285,21 +286,21 @@
                     <!-- Image and text -->
        <nav class="">
         <a class="navbar-brand" href="#">
-            <img src="img/facebook2.png" width="30" height="30" alt=""> Facebook
+           <i class="fa fa-facebook-official" style="font-size:24px"></i> Facebook
        </a>
        </nav>
                     </li>
                     <li>
             <nav class="">
         <a class="navbar-brand" href="#">
-            <img src="img/Instagram.png" width="30" height="30" alt=""> Instagram
+          <i class="fa fa-instagram" style="font-size:30px"></i> Instagram
        </a>
        </nav>
          </li>
          <li>
          <nav class="">
         <a class="navbar-brand" href="#">
-            <img src="img/Twitter.png" width="30" height="30" alt=""> Twitter
+          <i class="fa fa-twitter-square" style="font-size:30px"></i> Twitter
         </a>
        </nav>
         </li>
